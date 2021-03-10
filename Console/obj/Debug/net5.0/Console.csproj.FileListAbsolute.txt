@@ -1,0 +1,15 @@
+/Users/kirylvolkau/PW/SE2/TDD/Console/bin/Debug/net5.0/Console.deps.json
+/Users/kirylvolkau/PW/SE2/TDD/Console/bin/Debug/net5.0/Console.runtimeconfig.json
+/Users/kirylvolkau/PW/SE2/TDD/Console/bin/Debug/net5.0/Console.runtimeconfig.dev.json
+/Users/kirylvolkau/PW/SE2/TDD/Console/bin/Debug/net5.0/Console.dll
+/Users/kirylvolkau/PW/SE2/TDD/Console/bin/Debug/net5.0/ref/Console.dll
+/Users/kirylvolkau/PW/SE2/TDD/Console/bin/Debug/net5.0/Console.pdb
+/Users/kirylvolkau/PW/SE2/TDD/Console/obj/Debug/net5.0/Console.csprojAssemblyReference.cache
+/Users/kirylvolkau/PW/SE2/TDD/Console/obj/Debug/net5.0/Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirylvolkau/PW/SE2/TDD/Console/obj/Debug/net5.0/Console.AssemblyInfoInputs.cache
+/Users/kirylvolkau/PW/SE2/TDD/Console/obj/Debug/net5.0/Console.AssemblyInfo.cs
+/Users/kirylvolkau/PW/SE2/TDD/Console/obj/Debug/net5.0/Console.csproj.CoreCompileInputs.cache
+/Users/kirylvolkau/PW/SE2/TDD/Console/obj/Debug/net5.0/Console.dll
+/Users/kirylvolkau/PW/SE2/TDD/Console/obj/Debug/net5.0/ref/Console.dll
+/Users/kirylvolkau/PW/SE2/TDD/Console/obj/Debug/net5.0/Console.pdb
+/Users/kirylvolkau/PW/SE2/TDD/Console/obj/Debug/net5.0/Console.genruntimeconfig.cache

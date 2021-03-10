@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Users/kirylvolkau/.nuget/packages/moq/4.16.1/lib/netstandard2.1/Moq.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3d0d26d0_002D6620_002D45dd_002Da85f_002D400e1a99cef3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="it_should_calculate #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::88BD6399-3BA0-4BE0-BEDF-90023F9FA810::net5.0::Tests.when_calculating&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fb1fb99d_002Dfd0c_002D441e_002Da697_002D03dae37ea861/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="it_should_calculate" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::88BD6399-3BA0-4BE0-BEDF-90023F9FA810::net5.0::Tests.when_calculating.it_should_calculate&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
